@@ -14,9 +14,10 @@
     "cli"
   ],
   "dependencies": {
-    "axios" : "^0.27.2",
-    "react-router-dom": "^6.3.0",
+    "axios": "^0.27.2",
+    "eslint": "^8.22.0",
     "prettier": "^2.7.1",
+    "react-router-dom": "^6.3.0",
     "sass": "^1.54.5"
   }
 }
